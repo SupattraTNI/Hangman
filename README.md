@@ -1,1 +1,2 @@
-![image](https://github.com/SupattraTNI/Hangman/assets/153533936/fd7da411-33a9-46a3-a91c-368ea4b6b306)
+![image](https://github.com/SupattraTNI/Hangman/assets/153533936/dfb569e0-b728-4702-8a06-2cdd507f8d65)
+
