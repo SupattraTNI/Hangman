@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1645408210 source:d:\drive_d\study\programming\codeblock\c12_hangman\main.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	<string>
+	<fstream>
+	"HangMan.h"
+	"vocab.h"
+	"word.h"
+
+1645298727 source:d:\drive_d\study\programming\codeblock\c12_hangman\hangman.cpp
+	<iostream>
+	<string>
+	"HangMan.h"
+
+1645298714 d:\drive_d\study\programming\codeblock\c12_hangman\hangman.h
+	<iostream>
+	<string>
+
+1645298829 source:d:\drive_d\study\programming\codeblock\c12_hangman\vocab.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"vocab.h"
+
+1645299088 d:\drive_d\study\programming\codeblock\c12_hangman\vocab.h
+	<iostream>
+	<string>
+
+1645299088 source:d:\drive_d\study\programming\codeblock\c12_hangman\word.cpp
+	<iostream>
+	<string>
+	"word.h"
+
+1645299110 d:\drive_d\study\programming\codeblock\c12_hangman\word.h
+	<iostream>
+	<string>
+	"vocab.h"
+
+1645299640 source:d:\drive_d\study\programming\codeblock\c12_hangman\restart.cpp
+	<iostream>
+	<string>
+	"restart.h"
+
+1645299733 source:d:\drive_d\study\programming\codeblock\c12_hangman\ascii_art.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"ascii_art.h"
+
+1645299315 d:\drive_d\study\programming\codeblock\c12_hangman\restart.h
+	<iostream>
+
+1645299461 d:\drive_d\study\programming\codeblock\c12_hangman\ascii_art.h
+	<iostream>
+	<string>
+
+1645298727 source:d:\drive_d\study\programming\codeblock\2_2564\c12_hangman\hangman.cpp
+	<iostream>
+	<string>
+	"HangMan.h"
+
+1645298714 d:\drive_d\study\programming\codeblock\2_2564\c12_hangman\hangman.h
+	<iostream>
+	<string>
+
+1645408210 source:d:\drive_d\study\programming\codeblock\2_2564\c12_hangman\main.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	<string>
+	<fstream>
+	"HangMan.h"
+	"vocab.h"
+	"word.h"
+
+1645299088 d:\drive_d\study\programming\codeblock\2_2564\c12_hangman\vocab.h
+	<iostream>
+	<string>
+
+1645299110 d:\drive_d\study\programming\codeblock\2_2564\c12_hangman\word.h
+	<iostream>
+	<string>
+	"vocab.h"
+
+1645298829 source:d:\drive_d\study\programming\codeblock\2_2564\c12_hangman\vocab.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"vocab.h"
+
+1645299088 source:d:\drive_d\study\programming\codeblock\2_2564\c12_hangman\word.cpp
+	<iostream>
+	<string>
+	"word.h"
+

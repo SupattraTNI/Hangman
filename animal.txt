@@ -1,0 +1,10 @@
+ant
+elephant 
+pig 
+bird 
+chicken  
+bear
+monkey 
+turtle 
+bat
+fox
