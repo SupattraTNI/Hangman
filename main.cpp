@@ -47,7 +47,7 @@ int main()
             all_word.alphabet(gu, 'a','m');
             cout << "\t\t\t   ";
             all_word.alphabet(gu, 'n','z');
-            cout << endl << "\t\t\tEner alphabet : ";
+            cout << endl << "\t\t\tEnter alphabet : ";
             if(!(all_word.compare_word()))
                 cin >> in;
             test = in;
